@@ -56,3 +56,26 @@ for user_input in conversation_history:
     print(f"Bot: {bot_response}\n")
 
 
+
+
+
+
+
+OUTPUT :
+
+User: Hello! How are you today?
+Bot: Anyway, Mabel does have a lot of personality to
+
+User: I'm doing great, thanks! What about you?
+Bot: It's that scene from the movie. In the end
+
+User: I'm good as well. What have you been up to?
+Bot: I'll play whatever I want, but I've been thinking about that recently.
+
+User: Just working on some projects. How about you?
+Bot: ・We won't forget.
+
+User: Same here. It's been a busy week.
+Bot: But Mabel is just an average girl who is really  kind
+Customer: Because when you
+
