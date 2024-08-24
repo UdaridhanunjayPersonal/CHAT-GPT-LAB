@@ -1,3 +1,11 @@
+
+
+commands ::
+1.pip install transformers
+2.pip install torch
+
+code ::
+
 from transformers import GPT2Tokenizer, GPT2LMHeadModel, pipeline
 
 
